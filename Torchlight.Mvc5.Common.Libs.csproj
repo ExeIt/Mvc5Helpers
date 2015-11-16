@@ -93,25 +93,9 @@
     <Compile Include="Helpers\DateValidator.cs" />
     <Compile Include="Helpers\HtmlExtensions.cs" />
     <Compile Include="Helpers\TamperProtectAttribute.cs" />
-    <Compile Include="AspNetIdentity\AppRoleManager.cs" />
-    <Compile Include="AspNetIdentity\AppUserManager.cs" />
-    <Compile Include="AspNetIdentity\CustomPasswordValidator.cs" />
-    <Compile Include="AspNetIdentity\CustomUserValidator.cs" />
-    <Compile Include="AspNetIdentity\IdentityHelpers.cs" />
-    <Compile Include="AspNetIdentity\LocationClaimsProvider.cs" />
-    <Compile Include="AspNetIdentity\RoleManagerContext.cs" />
-    <Compile Include="AspNetIdentity\UserContext.cs" />
-    <Compile Include="AspNetIdentity\UserManagerContext.cs" />
     <Compile Include="Interfaces\IFormHandler.cs" />
     <Compile Include="Interfaces\IMenuBuilder.cs" />
-    <Compile Include="Interfaces\IUserContext.cs" />
     <Compile Include="ModelAssets\AlertAssets\Alert.cs" />
-    <Compile Include="ModelAssets\IdentityAssets\AppDbContext.cs" />
-    <Compile Include="ModelAssets\IdentityAssets\AppRole.cs" />
-    <Compile Include="ModelAssets\IdentityAssets\AppUser.cs" />
-    <Compile Include="ModelAssets\IdentityAssets\IdentityDbInit.cs" />
-    <Compile Include="ModelAssets\IdentityAssets\RoleEditViewModel.cs" />
-    <Compile Include="ModelAssets\IdentityAssets\RoleModificationViewModel.cs" />
     <Compile Include="ModelAssets\MenuAssets\TorchlightMenuModel.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
