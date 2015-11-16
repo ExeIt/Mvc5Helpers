@@ -87,13 +87,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ActionTypeResultEnum.cs" />
-    <Compile Include="FormActionResult.cs" />
     <Compile Include="Helpers\AntiTamperExtensions.cs" />
     <Compile Include="Helpers\CustomAuthorizeAttribute.cs" />
     <Compile Include="Helpers\DateValidator.cs" />
     <Compile Include="Helpers\HtmlExtensions.cs" />
     <Compile Include="Helpers\TamperProtectAttribute.cs" />
-    <Compile Include="Interfaces\IFormHandler.cs" />
     <Compile Include="Interfaces\IMenuBuilder.cs" />
     <Compile Include="ModelAssets\AlertAssets\Alert.cs" />
     <Compile Include="ModelAssets\MenuAssets\TorchlightMenuModel.cs" />
