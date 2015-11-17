@@ -88,7 +88,6 @@
   <ItemGroup>
     <Compile Include="ActionTypeResultEnum.cs" />
     <Compile Include="Helpers\AntiTamperExtensions.cs" />
-    <Compile Include="Helpers\CustomAuthorizeAttribute.cs" />
     <Compile Include="Helpers\DateValidator.cs" />
     <Compile Include="Helpers\HtmlExtensions.cs" />
     <Compile Include="Helpers\TamperProtectAttribute.cs" />
